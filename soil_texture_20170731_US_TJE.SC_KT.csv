@@ -1,0 +1,16 @@
+Geology_type,Geology,Description,Sand (%),Silt (%),Clay (%),Cobbly_Non,Geology_type_old,Geology_old
+CfB.US,CfB.SURF.US,"TJE, CfB, W of traps, 1st location up road, A horizon upper,",82.1884984,6.389776358,11.42172524,cobbly,CfB,CfB.SURF.US
+Lf,Lf.SUB.US,"TJE, monument/monument, sandy lower layer, v1",86.19726738,7.380073801,6.422658821,noncobbly,Hr,Hr.SUB.US
+CfB.US,CfB.SUB.US,"TJE, CfB, W of traps, 1st location, C horizon",82.35528942,9.580838323,8.063872255,cobbly,CfB,CfB.SUB.US
+CfB.US,CfB.SURF.US,"TJE, CfB, 2nd location up road, A horizon",61.53541749,12.66323704,25.80134547,cobbly,CfB,CfB.SURF.US
+CfB.US,CfB.SUB.US,"TJE, CfB; 2nd location up road, C horizon; cemented cobble - red",72.3752495,17.56487026,10.05988024,cobbly,CfB,CfB.SUB.US
+CbB,CbB.SURF.US,"TJE, CbB; reddish, coarse sand - upper A horizon",73.04356495,10.96600538,15.99042967,cobbly,CbB,CbB.SURF.US
+CbB,CbB.SURF.US,"TJE - CbB; 40-50% cobble, coarse cobble, red cobble top cap",83.2371093,4.778021103,11.9848696,cobbly,CbB,CbB.SURF.US
+CbB,CbB.SUB.US,"TJE - CbB, Coarse sandy layer,  C horizon",75.17737584,11.79174578,13.03087839,cobbly,CbB,CbB.SUB.US
+CbB,CbB.SUB.US,TJE - CbB across road from CbB red cobbly - sandy,71.19456652,21.77387135,7.031562125,cobbly,CbB,CbB.SUB.US
+Lf,Lf.SUB3.US,"Spring Canyon; dirt road - fluffy sand above rilled surface - fluffy, sandy dirt road",77.59137208,11.38406231,11.02456561,noncobbly,Hr,Hr.SUB3.US
+Lf,Lf.SUB3.US,"Spring Canyon; rilled surface - crumbly - similar to C horizon, 25° slope, lower part of slope",66.2376534,22.74768034,11.01466627,noncobbly,Hr,Hr.SUB3.US
+Lf,Lf.SURF.US,"Spring Canyon; R cut bank, A horizon 4-8 in from surface, undisturbed surface horizon; adjacent to dirt road for rainfall simulations",75.57953637,14.98800959,9.432454037,noncobbly,Hr,Hr.SURF.US
+Lf,Lf.SUB.US,Spring Canyon; R cut bank; B horizon,56.58170915,23.38830585,20.02998501,noncobbly,Hr,Hr.SUB.US
+Lf,Lf.SUB2.US,"Spring Canyon; R cut bank; C horizon, 50-60 in below surface",70.57177129,25.38984406,4.038384646,noncobbly,Hr,Hr.SUB2.US
+Lf,Lf.SUB2.US,"Spring Canyon; dirt road bottom of rainfall sim location; sandy, C horizon is similar texture",84.56463061,11.39658103,4.038788363,noncobbly,Hr,Hr.SUB2.US

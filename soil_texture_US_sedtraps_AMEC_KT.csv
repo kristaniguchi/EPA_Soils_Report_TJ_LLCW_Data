@@ -1,0 +1,4 @@
+Geology_type,Geology,Description,Cobble,Gravel  ,Sand,Silt,Clay
+USTRAP,USTRAP,Lower.basin,0,0,60,35,5
+USTRAP,USTRAP,Upper.basin,0,0,54,40,6
+USTRAP,USTRAP,Sorted.pile,0,0,63,32,5

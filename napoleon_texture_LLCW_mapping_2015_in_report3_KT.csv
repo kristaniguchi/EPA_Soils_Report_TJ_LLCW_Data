@@ -1,0 +1,29 @@
+Loc.code,Geology0,Geology_type,Geology,Description,Cobble,Gravel  ,Sand,Silt,Clay
+2.1,CfB.MX.SUB,CfB.MX,CfB.MX.SUB.LLCW,"Subsoil, gray sand ~4m from surface",0,0,50,32,18
+2.2,CfB.MX.SUB,CfB.MX,CfB.MX.SUB.LLCW,"Subsoil, gray cobbly sand ~2m from surface",38,12,71,9,20
+5,CfB.MX.SURF,CfB.MX,CfB.MX.SURF.LLCW,"Surface soil (2-10 cm), red (figure 5.2.5s)",44,0,65,31,4
+6,CfB.MX.SURF,CfB.MX,CfB.MX.SURF.LLCW,"Surface soil (2-10 cm), red cobbly cap mixed with gray",0,0,72,24,4
+19,CfB.MX.SUB,CfB.MX,CfB.MX.SUB.LLCW,"Subsoil, highly conglomerate layer in Salvatierra",70,23,69,7,1
+13,CfB.MX.CHAN,CfB.MX,CfB.MX.CHAN.LLCW,"Channel, SE fill in earthen channel near confluence",0,0,53,37,10
+14,CfB.MX.CHAN,CfB.MX,CfB.MX.CHAN.LLCW,"Channel, right bank, SE1, (7/22/14)",0,0,80,18,2
+0,MXSB,MXSB,MXSB,Surface soil (2-10 cm) (Figure 5.2.4s),0,0,79.2,18,2.8
+0,MXSB,MXSB,MXSB,Surface soil (2-10 cm),0,0,74.2,23,2.8
+0,MXSB,MXSB,MXSB,Surface soil (2-10 cm),0,0,78.2,19,2.8
+1,Lf.SUB,Lf,Lf.SUB.LLCW,"Subsoil, road cut ~2m from surface (figure 5.2.1s)",0,0,73,23,4
+3,CfB.MX.SURF,CfB.MX,CfB.MX.SURF.LLCW,"Surface soil (2-10 cm), red cobbly soil (figure 5.2.2s)",20,0,84,13,3
+4,Lf.SURF,Lf,Lf.SURF.LLCW,"Subsoil, cemented gray non-cobble",0,0,68,30,2
+15.1,Lf.SUB,Lf,Lf.SUB.LLCW,"Subsoil, non cobby, cut main",0,0,67,18,15
+15.2,Lf.SUB,Lf,Lf.SUB.LLCW,"Subsoil, main above school rills near SB",0,0,94,3,3
+17.1,Lf.SUB,Lf,Lf.SUB.LLCW,"Subsoil (1m), non cobbly layer. Figure 5.2.8s",0,2,52,41,5
+17.2,Lf.SURF,Lf,Lf.SURF.LLCW,"Surface, cobbly layer. Figure 5.2.8s",60,0,79,14,7
+20,CfB.MX.SUB,CfB.MX,CfB.MX.SUB.LLCW,"Subsoil, Sandy layer in SB",0,0,74,25,1
+18,CfB.MX.SUB,CfB.MX,CfB.MX.SUB.LLCW,"Subsoil, cobbly layer in Salvatierra",30,24,48,27,1
+16,Lf.CHAN,Lf,Lf.CHAN.LLCW,"Channel, right bank, Main B (10/13/14)",0,0,59,33,8
+12,CbB.CHAN,CbB,CbB.CHAN.LLCW,"Channel, R bank (thin sandy layer that is undercut), SE2 (7/22/14)",0,11,76,10,3
+9,Lf.CHAN,Lf,Lf.CHAN.LLCW,"Channel, SW305 toe",0,6,67,24,3
+10,Lf.CHAN,Lf,Lf.CHAN.LLCW,"Channel, SW 305 bank, 1 m. above the toe",0,31,47,14,8
+11,Lf.CHAN,Lf,Lf.CHAN.LLCW,"Channel, SW 305 bed",0,34,56,8,2
+99,PROP,PROP,PROP,Proposed AGNPS model,NA,NA,64,27,10
+99,PROP,PROP,PROP,Proposed AGNPS model,NA,NA,29,31,40
+99,PROP,PROP,PROP,Proposed AGNPS model,NA,NA,60,32,8
+99,PROP,PROP,PROP,Proposed AGNPS model,NA,NA,30,30,40

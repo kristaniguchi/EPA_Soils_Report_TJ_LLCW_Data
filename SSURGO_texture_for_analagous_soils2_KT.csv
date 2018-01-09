@@ -1,0 +1,7 @@
+abb,Layer_Number,Layer_Depth,Geology0,Geology_type,Geology,Sand,Silt,Clay,BulkD,VFSand_Ratio,Rock_Ratio,CaCO3_Content,Saturated_Conductivity,Field_Capacity,Wilting_Point,pH,Organic_Matter_Ratio,Input_Units_Code,Sand:Silt
+C,1,20.9,CbB.SURF,CbB,CbB.SURF.SSURGO,0.84,0.09,0.08,109,0.12,0.18,0,4,0.133,0.058,6.1,0.0125,0,0.903225806
+C,2,35.8,CbB.SUB,CbB,CbB.SUB.SSURGO,0.84,0.09,0.08,108,0.12,0.05,0,4,0.15,0.058,5.8,0.0025,0,0.903225806
+B,1,18.9,CfB.SURF,CfB,CfB.SURF.SSURGO,0.64,0.27,0.1,114,0.17,0.09,0,4,0.171,0.083,5.8,0.0075,0,0.703296703
+B,2,33.9,CfB.SUB,CfB,CfB.SUB.SSURGO,0.52,0.08,0.4,114,0.09,0.09,0,0,0.276,0.193,5.6,0.0025,0,0.866666667
+L,1,0,Lf.SURF,Lf,Lf.SURF.SSURGO,0.87,0.07,0.07,,0.24,,,,,,,,,
+L,4,97,Lf.SUB4,Lf,Lf.SUB4.SSURGO,0.83,0.11,0.07,,0.07,,,,,,,,,
